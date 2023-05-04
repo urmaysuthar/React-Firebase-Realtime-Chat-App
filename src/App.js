@@ -43,7 +43,6 @@ if (!isAuth){
 
             <div className="sign-out">
               <button onClick={signUserOut}>Sign Out</button>
-
             </div>
          </>
   );
