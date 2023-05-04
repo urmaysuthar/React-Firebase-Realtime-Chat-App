@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+#Real Time Chat Web App
+
+Introducing my Real-Time Chat Application, a project I developed using React for the Frontend and Firebase for the Backend. 
+This app showcases my skills in creating a seamless and user-friendly communication platform. 
+I integrated Google authentication for user sign-in, ensuring a secure and convenient experience. 
+Users can easily create or join chat rooms by simply entering a room name, allowing them to connect with others in real-time. 
+To improve the user experience, I implemented cookies to store login information, enabling seamless navigation in case of page refreshes or tab switches. I also incorporated a sign-out feature to ensure user privacy and security.
+
+I will be further working on this project to implement user icons, profanity filters, emojis, pictures and videos upload.
+
+![Chat Room](src/assets/chatroom.jpg)
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
